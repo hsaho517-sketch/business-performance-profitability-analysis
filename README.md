@@ -1,5 +1,5 @@
 # Business Performance & Profitability Analysis
-
+🌐 Language: **English** | [Español](README_ES.md)
 ## Executive Summary
 
 Revenue growth is not translating into profitable growth.
